@@ -1,5 +1,3 @@
-# MAD-mini
-
 # Expense Tracker and Event Management System  
 
 This project combines an **Expense Tracker** and an **Event Management System** to address key challenges in managing finances and event activities efficiently.  
